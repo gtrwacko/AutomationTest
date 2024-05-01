@@ -17,7 +17,6 @@ public class MainTest {
 		
 		//Before doing any work please run the project to make sure the page launches as is.
 		//Create a Method to get the page using the url in TableTestPage
-		//Click the link in the row that contains the payor role
 		
 	}
 
